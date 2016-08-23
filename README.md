@@ -89,7 +89,7 @@ The css used for the demo:
   border-radius: 5px;
 }
 ```
-
+You may also be interested in Masonry.js ListView widget: https://github.com/nerburish/yii2-masonry-view
 
 
 
