@@ -1,0 +1,22 @@
+{
+    "name": "nerburish/yii2-match-height-view",
+    "description": "ListView widget improved to use Jquery Match Height (https://github.com/liabru/jquery-match-height)",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","macth-height","masonry","dataprovider","listview","view","widget"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nerburish",
+            "email": "nerburish@hotmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+		"bower-asset/matchHeight": "~0.7.0"
+    },	
+    "autoload": {
+        "psr-4": {
+            "nerburish\\matchheight\\": ""
+        }
+    }	
+}
