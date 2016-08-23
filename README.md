@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist nerburish/yii2-match-height-view": "dev-master
+php composer.phar require --prefer-dist yii2-match-height-view "dev-master"
 ```
 
 or add
 
 ```
-"nerburish/yii2-match-height-view": "dev-master"
+"yii2-match-height-view": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
